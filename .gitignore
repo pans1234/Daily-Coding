@@ -1,0 +1,21 @@
+
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore compiled output
+*.out
+
+# Ignore debugging files
+*.pdb
+*.ilk
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
