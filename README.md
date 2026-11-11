@@ -57,6 +57,7 @@ My goal is to become a better problem solver by writing code, understanding conc
 
 ## 📂 Repository Structure
 
+```text
 Daily-Coding/
 │
 ├── Arrays/
@@ -67,6 +68,7 @@ Daily-Coding/
 ├── Trees/
 ├── Graphs/
 └── README.md
+```
 
 More topic-wise folders and programming solutions will be added as I progress.
 
